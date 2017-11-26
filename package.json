@@ -1,0 +1,28 @@
+{
+  "name": "esdoc-tripleslash-plugin",
+  "version": "1.0.0",
+  "description": "A plugin for ESDoc to allow triple slash escaping for documentation comments",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larsno/esdoc-tripleslash-plugin"
+  },
+  "devDependencies": {
+    "esdoc": "latest",
+    "mocha": "2.5.3"
+  },
+  "engines": {
+    "node": ">= 6.0.0"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "esdoc",
+    "plugin"
+  ],
+  "files": [
+    "esdoc-tripleslash-plugin.js",
+    "README.md"
+  ],
+  "main": "esdoc-tripleslash-plugin.js"
+}
